@@ -1,8 +1,7 @@
-##Aplicaciion de comandos 
-recuerda aplicar los paquete
-npm install
+Aplicación de comandos  recuerda aplicar los paquete
+- npm install
 
-## Para la ejecucion debemos tener claro lo siguiente 
+## Para la ejecución debemos tener claro lo siguiente 
 - d=descripcion 
 - c=completar(actualizar)
 - a=listar tareas segun el estado
