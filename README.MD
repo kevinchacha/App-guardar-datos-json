@@ -12,7 +12,7 @@ node app crear -d nombre_de_la_tarea
 ejemplo :
 node app crear -d jorge
 ---------------------------------------
-Para listar todas las tareas:
+Para listar todas las tareas: \n
 node app listar
 ---------------------------------------
 Para listar tareas que esten hechas o no :
