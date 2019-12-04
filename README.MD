@@ -1,6 +1,9 @@
 Aplicación de comandos  recuerda aplicar los paquete
 - npm install
 
+#Podemos descargarnos al app en el 
+- released
+
 ## Para la ejecución debemos tener claro lo siguiente 
 - d=descripcion 
 - c=completar(actualizar)
